@@ -6,8 +6,9 @@ Goal: Design a controller that will make a robot arm move to a sequence of point
 *Also created a small peicewise function for movement as proof of concept* 
 
 To run:
-Open Files in MATLAB;
-In the command window run: DesignProblem01('Controller','diagnostics',true)
+Open Files in MATLAB
+
+In the command window run: DesignProblem02('Controller','diagnostics',true)
 
 File Descriptions:
 ------------------
