@@ -1,7 +1,8 @@
 # DesignProject02
 Design Project #2 for AE 353: Aerospace Controls
 
-Goal: Design a controller that will make a robot arm move to a sequence of points in space. The catch: there are 2 joints and only one actuator.;
+Goal: Design a controller that will make a robot arm move to a sequence of points in space. The catch: there are 2 joints and only one actuator.
+
 *Also created a small peicewise function for movement as proof of concept* 
 
 To run:
