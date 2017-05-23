@@ -5,6 +5,7 @@ Goal: Design a controller that will make a robot arm move to a sequence of point
 
 *Also created a small peicewise function for movement as proof of concept* 
 
+
 To run:
 Open Files in MATLAB
 
